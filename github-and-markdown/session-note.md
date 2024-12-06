@@ -1,4 +1,4 @@
-It's Friday, December 6, 2024.
+It's Friday, December 6, 2024. It's Nikolaus.
 
 git switch -c “feature branch” 
 git switch feature branch
